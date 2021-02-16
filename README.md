@@ -1,5 +1,14 @@
-### Hi there 👋
+## Generic greeting 👋
+**Profession**: Software Engineer    
+**Education**: Master - Information Science @ UiB
 
+**Things I like**: 
+- Computer science
+- Automation
+- Self-hosting
+- PC gaming
+- Coffee and contemplation
+- Grumping and complaining
 <!--
 **svimanet/svimanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
